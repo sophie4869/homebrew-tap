@@ -1,8 +1,8 @@
 class Keyrotate < Formula
   desc "Rotate & sync secrets across Vercel/Cloud Run/GCP SM/Koyeb/GH Actions/Atlas + local .env"
   homepage "https://github.com/sophie4869/keyrotate"
-  url "https://github.com/sophie4869/keyrotate/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "a9862d46c1897276f16f07d8ac436c2b86f56d7730c7d05aec1ffefc63a39126"
+  url "https://github.com/sophie4869/keyrotate/archive/refs/tags/v0.1.2.tar.gz"
+  sha256 "453162f0cd8f2fe14c21b23600d06ae57cec4e88e62d852d6f31d5c094f46a29"
   license "MIT"
 
   depends_on "jq"
